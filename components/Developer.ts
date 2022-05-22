@@ -1,7 +1,7 @@
 export class Developer {
   //СВОЙСТВА
   public country: string = "USA";
-  protected v: boolean = true;
+  protected b: boolean = true;
   private a: number = 1
 
   //Конструктор, начальная инициализация объекта
